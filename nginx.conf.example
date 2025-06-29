@@ -1,0 +1,13 @@
+
+# Добавьте в ваш server блок:
+
+location ~* \.(html|css|js|json)$ {
+    expires 1h;
+    add_header Cache-Control "public, immutable";
+}
+
+location ~* \.json$ {
+    add_header Access-Control-Allow-Origin "*";
+    gzip on;
+    gzip_types application/json;
+}
