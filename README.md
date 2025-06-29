@@ -2,7 +2,7 @@
 
 > **Интерактивная документация для 2000+ n8n workflows с расширенными возможностями поиска и анализа**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-GitHub_Pages-blue?style=for-the-badge)](https://YOUR_USERNAME.github.io/YOUR_REPO/)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-GitHub_Pages-blue?style=for-the-badge)](https://rocketmandrey.github.io/n8nflows/)
 [![Workflows](https://img.shields.io/badge/📋_Workflows-2000+-green?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/📄_License-MIT-yellow?style=for-the-badge)](#)
 
@@ -19,13 +19,13 @@
 ## 🚀 Использование
 
 ### Онлайн (рекомендуется)
-Просто откройте: **[https://YOUR_USERNAME.github.io/YOUR_REPO/](https://YOUR_USERNAME.github.io/YOUR_REPO/)**
+Просто откройте: **[https://rocketmandrey.github.io/n8nflows/](https://rocketmandrey.github.io/n8nflows/)**
 
 ### Локально
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/rocketmandrey/n8nflows.git
+cd n8nflows
 
 # Откройте в браузере
 open index.html
@@ -93,7 +93,7 @@ python3 -m http.server 8000
 # Форкните репозиторий или создайте новый
 # Включите GitHub Pages в настройках репозитория
 # Ваш сайт будет доступен по адресу:
-# https://YOUR_USERNAME.github.io/YOUR_REPO/
+# https://rocketmandrey.github.io/n8nflows/
 ```
 
 ### Netlify
@@ -121,9 +121,9 @@ vercel
 
 Если у вас есть вопросы или предложения:
 
-- 🐛 [Создайте Issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues)
-- 💡 [Предложите улучшение](https://github.com/YOUR_USERNAME/YOUR_REPO/discussions)
-- 📧 Напишите на email: your.email@example.com
+- 🐛 [Создайте Issue](https://github.com/rocketmandrey/n8nflows/issues)
+- 💡 [Предложите улучшение](https://github.com/rocketmandrey/n8nflows/discussions)
+- 📧 Напишите на email: rocketmandrey@gmail.com
 
 ## 📄 Лицензия
 
